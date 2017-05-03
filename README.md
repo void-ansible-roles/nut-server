@@ -41,4 +41,4 @@ Conflicting Roles:
   * None
 
 Depends On:
-  * None
+  * network
